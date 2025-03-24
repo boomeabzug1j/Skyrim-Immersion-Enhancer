@@ -8,25 +8,45 @@ A mod called "Enhancer" makes the world of Skyrim more alive. It adds:
 
 ## Repository structure
 Skyrim-Immersion-Enhancer/
+
 ├── README.md
+
 ├── scripts/
+
 │ ├── quests/
+
 │ │ ├── immersiveQuest.pex
+
 │ │ ├── banditRaidQuest.pex
+
 │ └── effects/
+
 │ ├── weatherChange.pex
+
 │ └── ambientSounds.pex
+
 ├── assets/
+
 │ ├── textures/
+
 │ │ ├── newNPC.png
+
 │ │ └── questItem.png
+
 │ └── sounds/
+
 │ ├── ambientForest.wav
+
 │ └── battleTheme.mp3
+
 ├── documentation/
+
 │ ├── install_guide.md
+
 │ └── quest_overview.md
+
 ├── build/
+
 └── LICENSE
 
 ## Installation
